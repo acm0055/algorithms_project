@@ -1,0 +1,5 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{float}
+
+\author{Austin Chase Minor}
